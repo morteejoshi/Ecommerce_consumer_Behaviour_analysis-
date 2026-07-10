@@ -5,7 +5,6 @@ Analyze customer purchasing behavior and identify factors affecting spending pat
 
 ## Tools Used
 - LibreOffice Calc
-- Excel
 - GitHub
 
 ## KPIs
