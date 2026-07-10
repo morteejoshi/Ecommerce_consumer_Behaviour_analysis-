@@ -25,3 +25,7 @@ Analyze customer purchasing behavior and identify factors affecting spending pat
 
 ## Dashboard
 Dashboard screenshot included in repository.
+
+## Dashboard Preview
+
+![Dashboard](dashboard_final.png)
